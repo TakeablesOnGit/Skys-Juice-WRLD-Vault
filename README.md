@@ -1,7 +1,7 @@
 -->> INSTRUCTIONS <<-- 
 
-Go to releases and download the latest release OR downl;oad "Vault Tool" from the contents.
-Extract the folder and double click on "VaultTool" OR double click "Vault Tool" if you only downloaded that.
+Go to releases and download the latest release **OR** download "Vault Tool" from the contents.
+Extract the folder and double click on "VaultTool" **OR** double click "Vault Tool" if you only downloaded that.
 
 -->> OPTIONS <<--
 
